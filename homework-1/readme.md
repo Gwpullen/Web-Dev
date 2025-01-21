@@ -2,16 +2,16 @@
 
 ### Websites vs Web Applications
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+A Website primarily deals with providing information and has limited interactivity. A Web Application is software that is designed to perform specific tasks and requires a user to interact with.
 
 ### VS Code & Extensions
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+VS Code is an open-source code editor that supports multiple programming languages. It utilizes a vast amount of extensions to help enhance the functionability of the workspace and tailor it to your needs.
 
 ### Version Control, Git, & GitHub
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+Version Control allows you to record changes over time so you can recall a specific version later on. Git is a distributed version control system (DVCS) that allows users to manage their code efficiently. GitHub is an online platform that utilizes Git and offers tools for collaborative software development.
 
 ### Markdown & Documentation
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+Markdown is a markup language that allows users to format text easily and efficiently. It's used for documentation in web development because of it's readability, portability, and ability to be accessed even if specific applications become obsolete.
