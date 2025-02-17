@@ -10,4 +10,4 @@ I was able to make a navigation bar and center the elements with each other and 
 
 ### Live Link
 
-[Blog Page](https://github.com/Gwpullen/Web-Dev/tree/main/homework-2)
+[Blog Page](https://gwpullen.github.io/Web-Dev/homework-2/)
