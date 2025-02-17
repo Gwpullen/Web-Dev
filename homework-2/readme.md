@@ -2,12 +2,12 @@
 
 ### Blog Topic Summary
 
-Brief description of your what your blog is about and why you chose that topic.
+My blog is about my favorite bands because more people should listen to them.
 
 ### Key Takeaways
 
-Brief description of understanding. Use any combination of markdown techniques.
+I was able to make a navigation bar and center the elements with each other and the web page. I made all my images the same size and centered them as well. The surprise was a bonus project that was an easy addition.
 
 ### Live Link
 
-[Blog Page](https://{username}.github.io/{reponame}/homework-2)
+[Blog Page](https://github.com/Gwpullen/Web-Dev/tree/main/homework-2)
