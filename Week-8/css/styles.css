@@ -17,33 +17,30 @@ p {
   margin-bottom: 16px;
 }
 
-nav {
-  background-color: salmon;
-}
-
 body {
-  background-color: cadetblue;
+  background-color: chocolate;
+  color: wheat;
 }
 
+nav {
+  background-color: burlywood;
+}
 nav ul {
-  height: 50px;
-  list-style: none;
-
   display: flex;
   align-items: center;
   gap: 40px;
-}
 
-nav ul li {
-  font-size: 18px;
+  height: 50px;
+  list-style: none;
+  padding: 0px 20px;
 }
 
 nav ul li a {
+  font-size: 24px;
   text-decoration: none;
-  color: #fff;
+  color: white;
 }
 
-.item {
+body > ul {
   margin-left: 16px;
-  border: 1px;
 }
